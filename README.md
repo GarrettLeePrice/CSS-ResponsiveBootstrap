@@ -2,7 +2,7 @@
 
 #### _Project: CSS Template Date:_
 
-#### By _**Megan Kaluza**_
+#### By _**Megan Kaluza & Garrett Price**_
 
 ## Description
 
@@ -32,7 +32,7 @@ _No known bugs at this time_
 
 ### License
 
-Copyright (c) 2016 **_Megan Kaluza_**
+Copyright (c) 2016 **_Megan Kaluza & Garrett Price_**
 
 This software is licensed under the MIT license.
 
